@@ -1,0 +1,7 @@
+{
+  "name": "AppMenuTareas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
